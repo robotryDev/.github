@@ -12,16 +12,6 @@
 
 Skills: Kicad, SolidWorks, C, AVR, JS
 
-- 🔭 I’m currently working on aaaaa 
-- 🌱 I’m currently learning bbbbb 
-- 👯 I’m looking to collaborate on cccc 
-- 🤔 I’m looking for help with dddd 
-- 💬 Ask me about eeee 
-- 📫 How to reach me: ffff 
-- 😄 Pronouns: gggg 
-- ⚡ Fun fact: hhhh 
-
-
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/robotry)](https://www.youtube.com/c/robotry) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/RobotryKR/)](https://www.facebook.com/RobotryKR/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/robotry_/)](https://www.instagram.com/robotry_/) 
