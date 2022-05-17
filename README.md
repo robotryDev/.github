@@ -1,6 +1,6 @@
 ### Hi there 👋, RoboTry
 #### The Easiest Access To Robots
-![The Easiest Access To Robots](http://robotry.co.kr/images/bg/bg_banner_main1.jpg)
+![The Easiest Access To Robots](https://robotry.co.kr/images/products/product1.png)
 
 로보트리는 로봇과 가장 쉽게 친해질 수 있는 솔루션을 제공하는 회사입니다.
 
