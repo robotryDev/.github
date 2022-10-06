@@ -1,5 +1,5 @@
 #### The Easiest Access To Robots
-[![The Easiest Access To Robots](img/smallLogo.png)](https://parob.io)  
+[![The Easiest Access To Robots](https://github.com/robotryDev/.github/blob/main/profile/img/smallLogo.png?raw=true)](https://parob.io)  
 
 로보트리는 로봇과 가장 쉽게 친해질 수 있는 솔루션을 제공하는 회사입니다.
 
